@@ -668,6 +668,113 @@ Let + 人 + 動詞の原形
 
 ---
 
+## 5.7 結婚・同棲・離婚について【NEW】
+
+### 結婚の意義を語る
+
+| 表現 | 意味 |
+|------|------|
+| Marriage is a commitment | 結婚はコミットメントだ |
+| Settle down with someone | 誰かと落ち着く |
+| Tie the knot | 結婚する（イディオム） |
+| It's a life-changing event | 人生を変える出来事だ |
+| A major turning point in life | 人生の大きな転機 |
+
+```
+❌ Bad: It's a changing life period.
+✅ Good: It's a life-changing event.
+        （"life-changing"はハイフンでつなげて形容詞に）
+```
+
+### 信頼を築く/失う
+
+| 表現 | 意味 |
+|------|------|
+| build trust | 信頼を築く |
+| lose trust in someone | 〜への信頼を失う |
+| gain someone's trust | 〜の信頼を得る |
+| break trust | 信頼を壊す |
+
+```
+❌ Bad: Marriage is a creating trust.
+✅ Good: Marriage helps build trust with my partner.
+
+❌ Bad: I will lose my trust.
+✅ Good: She will lose trust in me.
+```
+
+### 同棲について
+
+| 表現 | 意味 |
+|------|------|
+| live together | 一緒に住む |
+| cohabitation | 同棲 |
+| compatible | 相性が良い |
+| see their true colors | 本当の姿が見える |
+
+```
+⚠️ 発音注意！
+❌ Bad: Advise them to leave each other（別れるよう助言）
+✅ Good: Advise them to live with each other（一緒に住むよう助言）
+
+Live /lɪv/ = 短い「イ」
+Leave /liːv/ = 長い「イー」
+```
+
+### 離婚について
+
+| 表現 | 意味 |
+|------|------|
+| The divorce rate | 離婚率（※rateを使う） |
+| file for divorce | 離婚を申請する |
+| end in divorce | 離婚に終わる |
+| irreconcilable differences | 調停不能な相違 |
+
+```
+❌ Bad: The divorce percentage is 30%.
+✅ Good: The divorce rate is 30%.
+✅ Good: 30% of marriages end in divorce.
+```
+
+### 世間体・社会的評価
+
+```
+❌ Bad: We care about people's eyesight.
+        （人々の視力を気にする、という変な意味に！）
+
+✅ Good: We care about what people think.
+        （人がどう思うかを気にする）
+
+✅ Good: We worry about social reputation.
+        （社会的評判を心配する）
+```
+
+| 表現 | 意味 |
+|------|------|
+| Keep up appearances | 体裁を保つ |
+| Save face | 面目を保つ |
+| Social stigma | 社会的偏見 |
+
+### 基準・期待値
+
+```
+❌ Bad: Standard is too high.
+✅ Good: Standards are too high.（複数形！）
+✅ Good: People have unrealistic expectations.
+✅ Idiomatic: The bar is set too high.
+```
+
+### 恋愛の盲目さ
+
+| 表現 | 意味 |
+|------|------|
+| Love is blind | 恋は盲目 |
+| Be blinded by love | 愛に目がくらむ |
+| Rose-colored glasses | バラ色の眼鏡（楽観的に見る） |
+| Turn a blind eye to | 〜を見て見ぬふりをする |
+
+---
+
 <a name="chapter6"></a>
 # Chapter 6: 発音・聞き取り注意ポイント
 
@@ -704,12 +811,49 @@ Let + 人 + 動詞の原形
 
 ---
 
-## 6.2 音声認識されやすい誤変換
+## 6.2 Live vs Leave【NEW】
+
+```
+⚠️ 意味が真逆になる危険なペア！
+
+❌ "Advise them to leave each other"
+   → 別れるよう助言する
+
+✅ "Advise them to live with each other"
+   → 一緒に住むよう助言する
+```
+
+| 単語 | 発音 | 意味 | コツ |
+|------|------|------|------|
+| Live | /lɪv/ | 住む | 短い「イ」|
+| Leave | /liːv/ | 去る | 長い「イー」|
+
+---
+
+## 6.3 Married vs Money【NEW】
+
+```
+⚠️ 音声認識で誤変換されやすい！
+
+❌ "I want to get money" → お金が欲しい
+✅ "I want to get married" → 結婚したい
+```
+
+| 単語 | 発音 | コツ |
+|------|------|------|
+| Married | /ˈmærɪd/ | 「マリッド」Rをはっきり |
+| Money | /ˈmʌni/ | 「マニー」 |
+
+---
+
+## 6.4 音声認識されやすい誤変換
 
 会話でよく起こる聞き間違い・誤変換：
 
 | 言いたかった | 認識された | 対策 |
 |-------------|-----------|------|
+| Married | Money | 「マリッド」とRを強調 |
+| Live | Leave | 短い「イ」を意識 |
 | Lifestyle | Sea life | 「ライフ・スタイル」とはっきり |
 | Sumo | Small | 「スーモー」と母音を強調 |
 | Waiter | Reader | 「ウェイター」のWを強調 |
@@ -720,7 +864,7 @@ Let + 人 + 動詞の原形
 
 ---
 
-## 6.3 つなげて発音される音
+## 6.5 つなげて発音される音
 
 ### Gonna / Wanna / Gotta
 
@@ -1049,6 +1193,10 @@ Rubbish = ゴミ（Rから始まる）
 | I am boring | I am bored | 「私はつまらない人」になる |
 | Win my father | Beat my father | 「父を賞品として獲得」になる |
 | Rubbish lifestyle | Lavish lifestyle | 「ゴミ生活」になる |
+| Get money（結婚の文脈） | Get married | 「結婚したい」が「お金が欲しい」に |
+| Leave each other | Live with each other | 「別れる」と「一緒に住む」が逆 |
+| People's eyesight | What people think | 「視力」と「世間体」は全く違う |
+| Standard is too high | Standards are too high | 複数形を忘れない |
 
 ---
 
