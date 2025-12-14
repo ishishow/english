@@ -775,6 +775,146 @@ Leave /liːv/ = 長い「イー」
 
 ---
 
+## 5.8 犯罪・安全・旅行について【NEW】
+
+### 治安について語る
+
+| 表現 | 意味 |
+|------|------|
+| The crime rate is low | 犯罪率が低い |
+| It's safe around the clock | 24時間安全 |
+| You can walk alone at night | 夜一人で歩ける |
+| This area is a bit sketchy | この辺りはちょっと怪しい |
+
+```
+❌ Bad: It's all time safety.
+✅ Good: It's safe all the time.
+
+⚠️ 注意！
+safety = 名詞（安全性）
+safe = 形容詞（安全な）
+「安全だ」と言いたい時は "It's safe" を使う
+```
+
+### 犯罪関連の語彙
+
+| 英語 | 意味 |
+|------|------|
+| Crime | 犯罪 |
+| Robbery | 強盗 |
+| Murder | 殺人 |
+| Theft | 窃盗 |
+| Shoplifting | 万引き |
+
+```
+⚠️ 発音注意！音声認識で誤変換されやすい！
+
+❌ "Rivalry is low in Japan" → ライバル関係？
+✅ "Robbery is rare in Japan" → 強盗は稀
+
+❌ "Mother doesn't happen in Japan" → お母さん？？
+✅ "Murder doesn't happen often in Japan" → 殺人はあまり起こらない
+```
+
+### 警察・治安維持
+
+| 表現 | 意味 |
+|------|------|
+| Police officer | 警察官 |
+| Patrol the streets | 街をパトロールする |
+| Arrest someone | 〜を逮捕する |
+| Commit a crime | 犯罪を犯す |
+| Law enforcement | 法執行機関 |
+
+```
+❌ Bad: Police seems they don't have strong weapon.
+✅ Good: Japanese police don't carry heavy weapons.
+
+❌ Bad: just patrol, just walking
+✅ Good: They just patrol the streets.
+```
+
+### 「〜に慣れていない」
+
+```
+❌ Bad: I'm not used to feeling.
+❌ Bad: I'm not used to cloud transportation.
+✅ Good: I'm not used to it.
+✅ Good: I'm not used to local transportation.
+
+構文: be used to + 名詞/動名詞
+
+⚠️ 注意！"used to + 動詞原形" とは違う！
+I used to live in Tokyo. = 昔東京に住んでいた（過去の習慣）
+I'm used to living in Tokyo. = 東京に住むことに慣れている（現在の状態）
+```
+
+### 「〜しない方がいい」
+
+```
+❌ Bad: I hadn't better to do ignore.
+✅ Good: I had better not react.
+✅ Good: It's better to just ignore them.
+
+構文: had better (not) + 動詞の原形
+⚠️ "to" は不要！"had better to" は間違い！
+```
+
+### 歌舞伎町・繁華街の危険
+
+| 表現 | 意味 |
+|------|------|
+| Scout / Tout | 客引き |
+| Overpriced | ぼったくりの |
+| Rip-off | ぼったくり |
+| Lure someone in | 〜を誘い込む |
+| Shady | 怪しい |
+
+```
+❌ Bad: Many crack asked us to come in.
+✅ Good: Many scouts try to bring customers in.
+✅ Good: They charge outrageous prices.
+✅ Good: The drinks are 10 times more expensive than normal.
+```
+
+### 旅行経験を聞く
+
+```
+❌ Bad: How many countries have you been traveled?
+✅ Good: How many countries have you traveled to?
+✅ Good: How many countries have you visited?
+✅ Good: How many countries have you been to?
+
+⚠️ travel は自動詞なので "been traveled" とは言わない
+```
+
+### 交通ルール
+
+| 表現 | 意味 |
+|------|------|
+| Traffic light | 信号 |
+| Pedestrian | 歩行者 |
+| Cross the street | 道を渡る |
+| Jaywalking | 信号無視の横断 |
+| Watch out for | 〜に注意する |
+
+```
+❌ Bad: Traffic Light is useless. Many driver don't obey that.
+✅ Good: Many drivers ignore traffic lights.
+✅ Good: Pedestrians need to watch out for cars.
+```
+
+### Grabタクシーの便利さ
+
+```
+❌ Bad: I don't have to tell as a goals.
+✅ Good: I don't have to tell the driver where I want to go.
+✅ Good: The destination is already set in the app.
+✅ Good: I don't have to negotiate the price.
+```
+
+---
+
 <a name="chapter6"></a>
 # Chapter 6: 発音・聞き取り注意ポイント
 
@@ -864,7 +1004,34 @@ Leave /liːv/ = 長い「イー」
 
 ---
 
-## 6.5 つなげて発音される音
+## 6.5 Robbery vs Rivalry / Murder vs Mother【NEW】
+
+```
+⚠️ 超危険！意味が全く変わる！
+
+❌ "Rivalry is low in Japan"
+   → 「ライバル関係が少ない」？
+✅ "Robbery is rare in Japan"
+   → 「強盗は日本では稀だ」
+
+❌ "Mother doesn't happen in Japan"
+   → 「お母さんが日本では起こらない」？？
+✅ "Murder doesn't happen often in Japan"
+   → 「殺人は日本ではあまり起こらない」
+```
+
+| 単語 | 発音 | 意味 | コツ |
+|------|------|------|------|
+| Robbery | /ˈrɒbəri/ | 強盗 | 「ロバリー」Rから始まる |
+| Rivalry | /ˈraɪvəlri/ | ライバル関係 | 「ライバルリー」 |
+| Murder | /ˈmɜːrdər/ | 殺人 | 「マーダー」Rをはっきり |
+| Mother | /ˈmʌðər/ | 母 | 「マザー」thの音 |
+
+**練習**: 「マーダー」のRと「マザー」のthを意識して発音し分ける
+
+---
+
+## 6.6 つなげて発音される音
 
 ### Gonna / Wanna / Gotta
 
@@ -1168,7 +1335,7 @@ Rubbish = ゴミ（Rから始まる）
 
 ---
 
-## すぐ使えるフレーズ TOP 10
+## すぐ使えるフレーズ TOP 15
 
 | 場面 | フレーズ |
 |------|---------|
@@ -1182,6 +1349,11 @@ Rubbish = ゴミ（Rから始まる）
 | 通勤する | commute |
 | 気を散らすもの | distraction |
 | 発電機 | generator |
+| 犯罪率が低い | The crime rate is low. |
+| 〜に慣れていない | I'm not used to... |
+| 〜しない方がいい | You had better not... |
+| 24時間安全 | It's safe around the clock. |
+| 何カ国行った？ | How many countries have you been to? |
 
 ---
 
@@ -1197,6 +1369,10 @@ Rubbish = ゴミ（Rから始まる）
 | Leave each other | Live with each other | 「別れる」と「一緒に住む」が逆 |
 | People's eyesight | What people think | 「視力」と「世間体」は全く違う |
 | Standard is too high | Standards are too high | 複数形を忘れない |
+| Rivalry is low | Robbery is rare | 「ライバル関係」と「強盗」は違う |
+| Mother doesn't happen | Murder doesn't happen | 「お母さん」と「殺人」は全く違う！ |
+| It's all time safety | It's safe all the time | safety=名詞、safe=形容詞 |
+| I hadn't better to do | I had better not do | "to"は不要、否定はbetter notの後 |
 
 ---
 
