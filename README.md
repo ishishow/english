@@ -915,6 +915,118 @@ I'm used to living in Tokyo. = 東京に住むことに慣れている（現在�
 
 ---
 
+## 5.9 健康・ダイエット・運動について【NEW】
+
+### 運動の頻度
+
+| 表現 | 意味 |
+|------|------|
+| twice a week | 週に2回 |
+| three times a week | 週に3回 |
+| every other day | 一日おきに |
+| I've been going more often | 最近よく行くようになった |
+
+```
+❌ Bad: Twice, third a week
+✅ Good: Twice or three times a week
+✅ Good: Two to three times a week
+
+⚠️ 注意！
+once（1回）, twice（2回）は特別な形
+3回以上は「数字 + times」
+```
+
+### 「近い」の前置詞
+
+```
+❌ Bad: My gym is near from my office.
+✅ Good: My gym is near my office.
+✅ Good: My gym is close to my office.
+
+⚠️ near は前置詞なので from は不要！
+⚠️ close は形容詞なので to が必要！
+```
+
+### 健康を保つ（keep + 目的語 + 形容詞）
+
+```
+❌ Bad: to keep it health
+✅ Good: to keep it healthy
+✅ Good: to stay healthy
+
+⚠️ health = 名詞、healthy = 形容詞
+「〜を健康に保つ」→ keep + 目的語 + healthy
+```
+
+### 食品・栄養の表現
+
+| 表現 | 意味 |
+|------|------|
+| low calorie / low in calories | 低カロリー |
+| high in protein | タンパク質が豊富 |
+| rich in vitamins | ビタミン豊富 |
+| high in fiber | 食物繊維が豊富 |
+| protein shake | プロテインシェイク |
+
+```
+❌ Bad: small curry（音声認識の誤変換）
+✅ Good: low calorie
+
+❌ Bad: Fruits is very healthy.
+✅ Good: Fruit is very healthy.
+（fruit は通常不可算名詞）
+```
+
+### 味の表現
+
+```
+❌ Bad: It's boring taste.（退屈な味？）
+✅ Good: It's bland.（味気ない）
+✅ Good: It tastes bland.（味が薄い）
+
+⚠️ boring = 活動が退屈
+⚠️ bland = 食べ物の味が薄い・味気ない
+```
+
+### メンタルヘルス
+
+```
+❌ Bad: It affects my mental.
+✅ Good: It affects my mental health.
+✅ Good: It affects me mentally.
+
+⚠️ mental は形容詞なので単独で名詞として使わない
+✅ mental health（精神的健康）を使う
+```
+
+### リモートワークの表現
+
+| 表現 | 意味 |
+|------|------|
+| work from home | 在宅勤務 |
+| work remotely | リモートで働く |
+| Going to the office is optional | 出社は任意 |
+| I can choose | 選べる |
+
+```
+❌ Bad: I working today.
+✅ Good: I'm working today.
+
+⚠️ 進行形では be動詞を省略しない！
+```
+
+### ことわざ
+
+```
+✅ "Health is wealth"
+   （健康は財産）
+
+✅ "You are what you eat"
+   （食べるものが体を作る）
+```
+
+---
+
 <a name="chapter6"></a>
 # Chapter 6: 発音・聞き取り注意ポイント
 
@@ -1335,13 +1447,13 @@ Rubbish = ゴミ（Rから始まる）
 
 ---
 
-## すぐ使えるフレーズ TOP 15
+## すぐ使えるフレーズ TOP 20
 
 | 場面 | フレーズ |
 |------|---------|
 | なんとか〜する | I managed to... |
 | 〜に詳しくない | I'm not familiar with... |
-| 〜にハマっている | I'm hooked on... |
+| 〜にハマっている | I'm hooked on... / I'm really into... |
 | マンネリ化している | I'm stuck in a rut. |
 | 考えをまとめる | Let me gather my thoughts. |
 | 従うしかなかった | I had no choice but to... |
@@ -1354,6 +1466,11 @@ Rubbish = ゴミ（Rから始まる）
 | 〜しない方がいい | You had better not... |
 | 24時間安全 | It's safe around the clock. |
 | 何カ国行った？ | How many countries have you been to? |
+| 週に2回 | twice a week |
+| 健康を維持する | stay healthy / keep fit |
+| 在宅勤務 | work from home / work remotely |
+| ストレス解消 | relieve stress |
+| 健康は財産 | Health is wealth.
 
 ---
 
@@ -1373,6 +1490,11 @@ Rubbish = ゴミ（Rから始まる）
 | Mother doesn't happen | Murder doesn't happen | 「お母さん」と「殺人」は全く違う！ |
 | It's all time safety | It's safe all the time | safety=名詞、safe=形容詞 |
 | I hadn't better to do | I had better not do | "to"は不要、否定はbetter notの後 |
+| keep it health | keep it healthy | health=名詞、healthy=形容詞 |
+| near from my office | near my office | nearは前置詞、fromは不要 |
+| I working today | I'm working today | 進行形でbe動詞を省略しない |
+| It's boring taste | It's bland | 食べ物には bland を使う |
+| affects my mental | affects my mental health | mentalは形容詞、単独で名詞にしない |
 
 ---
 
