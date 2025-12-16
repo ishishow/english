@@ -1025,6 +1025,28 @@ once（1回）, twice（2回）は特別な形
    （食べるものが体を作る）
 ```
 
+### 音声認識の誤変換（健康トピック）
+
+| 誤認識 | 正しい | 意味 |
+|--------|--------|------|
+| I offer buy | I often buy | よく買う |
+| grow up my muscle | build up my muscles | 筋肉をつける |
+| having a sick | getting sick | 病気になる |
+| our labor | our liver | 肝臓 |
+| to heat my body | to warm up my body | 体を温める |
+| try to be stream | try to be slim | 痩せようとする |
+
+```
+⚠️ grow up = 人が成長する
+⚠️ build up = 筋肉などを鍛える
+
+⚠️ labor = 労働
+⚠️ liver = 肝臓
+
+⚠️ heat = 熱する（調理）
+⚠️ warm up = 温める（体）
+```
+
 ---
 
 <a name="chapter6"></a>
@@ -1495,6 +1517,8 @@ Rubbish = ゴミ（Rから始まる）
 | I working today | I'm working today | 進行形でbe動詞を省略しない |
 | It's boring taste | It's bland | 食べ物には bland を使う |
 | affects my mental | affects my mental health | mentalは形容詞、単独で名詞にしない |
+| grow up my muscle | build up my muscles | grow up=成長する、build up=鍛える |
+| our labor is broken | our liver will be damaged | labor=労働、liver=肝臓 |
 
 ---
 

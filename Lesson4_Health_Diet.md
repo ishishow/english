@@ -3,6 +3,9 @@
 
 **レッスン日**: 2024年12月15日
 **トピック**: Health, Diet, and Exercise
+**先生**: Jill
+**生徒**: Sho Ishikawa
+**レッスン時間**: 約26分
 **キーワード**: Gym, Exercise, Diet, Protein, Supplements, Stress, Mental health, Healthy food
 
 ---
@@ -295,7 +298,55 @@
 
 ---
 
-## 10. より自然な表現への改善
+## 10. 音声認識の誤変換（追加）
+
+### "I offer buy" → "I often buy"
+```
+❌ "I offer buy some salad at convenience store"
+✅ "I often buy some salad at the convenience store"
+   （コンビニでよくサラダを買う）
+```
+
+### "grow up my muscle" → "build up my muscle"
+```
+❌ "I like grow up my muscle"
+✅ "I like to build up my muscles"
+   （筋肉をつけるのが好き）
+
+⚠️ grow up = 成長する（人が大人になる）
+⚠️ build up = 鍛える、増強する（筋肉など）
+```
+
+### "having a sick" → "getting sick"
+```
+❌ "I'm afraid of having a sick"
+✅ "I'm afraid of getting sick"
+   （病気になるのが怖い）
+```
+
+### "our labor is broken" → "our liver will be damaged"
+```
+❌ "Our labor is broken"（労働が壊れる？）
+✅ "Our liver will be damaged"
+   （肝臓がダメージを受ける）
+
+⚠️ labor = 労働
+⚠️ liver = 肝臓
+```
+
+### "to heat my body" → "to warm up my body"
+```
+❌ "I want to exercise to heat my body"
+✅ "I want to exercise to warm up my body"
+   （体を温めるために運動したい）
+
+⚠️ heat = 熱する（調理などに使う）
+⚠️ warm up = 温める（体に使う、ウォームアップ）
+```
+
+---
+
+## 11. より自然な表現への改善
 
 ### 「回数が増えている」
 
