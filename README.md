@@ -1049,6 +1049,90 @@ once（1回）, twice（2回）は特別な形
 
 ---
 
+## 5.10 離婚・ジェンダー・偏見について【NEW】
+
+### 離婚率の表現
+
+```
+❌ Bad: The percentage rate is about 30%.（重複）
+✅ Good: The divorce rate is about 30%.
+✅ Good: About 30% of marriages end in divorce.
+```
+
+### 離婚について話す
+
+| 表現 | 意味 |
+|------|------|
+| get divorced | 離婚する |
+| end in divorce | 離婚で終わる |
+| file for divorce | 離婚を申請する |
+| a tough decision | 難しい決断 |
+
+```
+❌ Bad: Some couples have married to divorce.
+✅ Good: Some couples end up getting divorced.
+✅ Good: Some marriages end in divorce.
+```
+
+### disapprove of（〜を良く思わない）
+
+```
+❌ Bad: I don't disapprove those people.
+✅ Good: I don't disapprove of those people.
+
+⚠️ disapprove of + 名詞（ofを忘れない！）
+```
+
+### 音声認識の誤変換
+
+| 誤認識 | 正しい | 意味 |
+|--------|--------|------|
+| I had | I heard | 〜と聞いた |
+| disappear | disapprove | 不承認する |
+
+```
+❌ "Some people may disappear with them"（消える？）
+✅ "Some people may disapprove of them"（良く思わない）
+```
+
+### something + 形容詞の語順
+
+```
+❌ Bad: They have negative something.
+✅ Good: They have something negative.
+
+⚠️ something/anything/nothing + 形容詞
+形容詞は後ろに置く！
+```
+
+### 偏見関連の語彙
+
+| 英語 | 意味 |
+|------|------|
+| prejudice | 偏見 |
+| bias | バイアス |
+| stereotype | 固定観念 |
+| discrimination | 差別 |
+| stigmatize | タブー視する |
+
+```
+✅ "I might have some unconscious bias"
+   （無意識の偏見があるかもしれない）
+
+✅ "We shouldn't judge divorced people"
+   （離婚した人を判断すべきではない）
+```
+
+### ニュースになる表現
+
+```
+❌ Bad: It will be news and broadcasting.
+✅ Good: It will be all over the news.
+✅ Good: It will make headlines.
+```
+
+---
+
 <a name="chapter6"></a>
 # Chapter 6: 発音・聞き取り注意ポイント
 
@@ -1493,6 +1577,10 @@ Rubbish = ゴミ（Rから始まる）
 | 在宅勤務 | work from home / work remotely |
 | ストレス解消 | relieve stress |
 | 健康は財産 | Health is wealth.
+| 〜と聞いた | I heard that...
+| 結局〜になる | end up ~ing
+| 〜を良く思わない | disapprove of...
+| ニュースになる | be all over the news
 
 ---
 
@@ -1519,6 +1607,9 @@ Rubbish = ゴミ（Rから始まる）
 | affects my mental | affects my mental health | mentalは形容詞、単独で名詞にしない |
 | grow up my muscle | build up my muscles | grow up=成長する、build up=鍛える |
 | our labor is broken | our liver will be damaged | labor=労働、liver=肝臓 |
+| disapprove those people | disapprove of those people | disapprove of + 名詞（ofが必要） |
+| negative something | something negative | something + 形容詞の語順 |
+| may disappear with them | may disapprove of them | disappear=消える、disapprove=不承認 |
 
 ---
 
