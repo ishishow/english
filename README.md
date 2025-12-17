@@ -1133,6 +1133,79 @@ once（1回）, twice（2回）は特別な形
 
 ---
 
+## 5.11 正月・祭り・日本文化について【NEW】
+
+### 日本文化を英語で説明する
+
+| 日本語 | 英語での説明 |
+|--------|-------------|
+| おみくじ | fortune slip (at a shrine) |
+| お年玉 | New Year's money (gift to children) |
+| 餅 | rice cake |
+| 海苔 | seaweed |
+| おせち | traditional New Year's food |
+| シェアハウス | shared house / communal living space |
+
+```
+✅ "Omikuji is a fortune slip that tells your luck for the year"
+   （おみくじは1年の運勢を占う紙）
+
+✅ "Otoshidama is New Year's money that adults give to children"
+   （お年玉は大人が子供にあげる正月のお金）
+```
+
+### cloud vs crowd（音声認識の誤変換）
+
+```
+❌ Bad: I can stand cloud.（雲を我慢できる？）
+✅ Good: I can handle crowds.（混雑に対処できる）
+✅ Good: I can tolerate crowded places.（混雑を我慢できる）
+
+⚠️ cloud /klaʊd/ = 雲
+⚠️ crowd /kraʊd/ = 群衆（Rの音が入る！）
+```
+
+### 祭りと食べ物の関係
+
+```
+❌ Bad: Each celebration connects special food.
+✅ Good: Each celebration has its own special food.
+✅ Good: Different celebrations have different traditional foods.
+```
+
+### 時制：今日のことは進行形
+
+```
+❌ Bad: I worked at home today.（今日なのに過去形）
+✅ Good: I'm working from home today.
+
+⚠️ 今日の出来事は進行形または現在形を使う
+```
+
+### コスプレの説明
+
+```
+❌ Bad: Many younger people disguise some anime character.
+✅ Good: Many young people dress up as anime characters.
+✅ Good: Cosplay is very popular in Japan.
+
+⚠️ disguise = 身元を隠すための変装
+⚠️ dress up = 祭りなどで衣装を着る
+```
+
+### 正月関連の語彙
+
+| 英語 | 意味 |
+|------|------|
+| shrine | 神社 |
+| visit a shrine | 神社に参拝する |
+| draw a fortune slip | おみくじを引く |
+| New Year's Eve | 大晦日 |
+| fireworks | 花火 |
+| countdown | カウントダウン |
+
+---
+
 <a name="chapter6"></a>
 # Chapter 6: 発音・聞き取り注意ポイント
 
@@ -1217,6 +1290,7 @@ once（1回）, twice（2回）は特別な形
 | Waiter | Reader | 「ウェイター」のWを強調 |
 | Mactan | McDonald | 固有名詞はゆっくり |
 | Crowded | Clouded | 「クラウディッド」のRを意識 |
+| Crowd | Cloud | 「クラウド」Rの音が入る |
 | Currently | Decently | 文脈で使い分け確認 |
 | Lavish | Rubbish | Lを意識的に |
 
@@ -1610,6 +1684,9 @@ Rubbish = ゴミ（Rから始まる）
 | disapprove those people | disapprove of those people | disapprove of + 名詞（ofが必要） |
 | negative something | something negative | something + 形容詞の語順 |
 | may disappear with them | may disapprove of them | disappear=消える、disapprove=不承認 |
+| I can stand cloud | I can handle crowds | cloud=雲、crowd=群衆 |
+| I worked at home today | I'm working from home today | 今日のことは過去形ではない |
+| people disguise | people dress up | disguise=身元を隠す、dress up=仮装 |
 
 ---
 
