@@ -1206,6 +1206,118 @@ once（1回）, twice（2回）は特別な形
 
 ---
 
+## 5.12 SNS・ソーシャルメディアについて【NEW】
+
+### SNSの使い方
+
+| 表現 | 意味 |
+|------|------|
+| browse | 閲覧する |
+| scroll through my feed | フィードをスクロールする |
+| post pictures | 写真を投稿する |
+| follow someone | フォローする |
+| like and comment | いいねとコメントをする |
+
+```
+❌ Bad: I'm not good at posting picture.
+✅ Good: I'm not good at posting pictures.（複数形）
+✅ Good: I mostly just browse.
+
+❌ Bad: It isn't my routine.
+✅ Good: It's not part of my routine.
+```
+
+### 動画視聴について
+
+| 表現 | 意味 |
+|------|------|
+| vlog | ビデオブログ |
+| vlogger | ビデオブロガー |
+| travel vlogs | 旅行動画 |
+| game streaming | ゲーム実況 |
+| short video | 短い動画 |
+| long-form video | 長い動画 |
+
+```
+❌ Bad: I like traveler video.
+✅ Good: I like travel vlogs.
+✅ Good: I like watching travel videos.
+
+❌ Bad: Short video is boring for me.
+✅ Good: Short videos are boring for me.（複数形）
+```
+
+### SNSの良い点・悪い点
+
+```
+✅ Good points:
+"We can stay connected with friends"
+（友達と繋がりやすい）
+
+"We can access a lot of information quickly"
+（多くの情報にすぐアクセスできる）
+
+✅ Bad points:
+"It can be a waste of time"
+（時間の無駄になりうる）
+
+"It's addictive"
+（中毒性がある）
+
+"I'm addicted to social media"
+（SNS中毒だ）
+```
+
+### 冠詞の問題
+
+```
+❌ Bad: it can be waste of time
+✅ Good: It can be a waste of time（aが必要）
+
+❌ Bad: we can know many things on internet
+✅ Good: We can learn many things on the internet（theが必要）
+```
+
+### 信頼性について
+
+```
+❌ Bad: We shouldn't believe 100% believe these posts.
+✅ Good: We shouldn't believe everything we see online.
+✅ Good: We need to be critical of online information.
+```
+
+### メッセージアプリ
+
+| 国/地域 | 主なアプリ |
+|--------|-----------|
+| 日本 | Line |
+| フィリピン | Messenger (Facebook) |
+| 国際的 | WhatsApp |
+
+```
+✅ "Line is very popular in Japan"
+✅ "Filipinos mainly use Messenger"
+✅ "WhatsApp is common for international communication"
+```
+
+### 中毒・時間の使い方
+
+```
+✅ "I'm addicted to social media"
+   （SNS中毒だ）
+
+✅ "I waste about two hours every day"
+   （毎日約2時間無駄にしている）
+
+✅ "I spend two hours on social media before bed"
+   （寝る前にSNSに2時間費やす）
+
+✅ "It affects my sleep"
+   （睡眠に影響する）
+```
+
+---
+
 <a name="chapter6"></a>
 # Chapter 6: 発音・聞き取り注意ポイント
 
@@ -1650,11 +1762,16 @@ Rubbish = ゴミ（Rから始まる）
 | 健康を維持する | stay healthy / keep fit |
 | 在宅勤務 | work from home / work remotely |
 | ストレス解消 | relieve stress |
-| 健康は財産 | Health is wealth.
-| 〜と聞いた | I heard that...
-| 結局〜になる | end up ~ing
-| 〜を良く思わない | disapprove of...
-| ニュースになる | be all over the news
+| 健康は財産 | Health is wealth. |
+| 〜と聞いた | I heard that... |
+| 結局〜になる | end up ~ing |
+| 〜を良く思わない | disapprove of... |
+| ニュースになる | be all over the news |
+| 見るだけ | I mostly just browse. |
+| 中毒だ | I'm addicted to... |
+| 時間の無駄 | a waste of time |
+| ルーティンの一部 | part of my routine |
+| 旅行動画 | travel vlogs |
 
 ---
 
@@ -1687,6 +1804,13 @@ Rubbish = ゴミ（Rから始まる）
 | I can stand cloud | I can handle crowds | cloud=雲、crowd=群衆 |
 | I worked at home today | I'm working from home today | 今日のことは過去形ではない |
 | people disguise | people dress up | disguise=身元を隠す、dress up=仮装 |
+| posting picture | posting pictures | 可算名詞は複数形に |
+| Short video is boring | Short videos are boring | 可算名詞は複数形に |
+| It isn't my routine | It's not part of my routine | より自然な表現 |
+| I like traveler video | I like travel vlogs | 「旅行動画」の正しい言い方 |
+| waste of time | a waste of time | 冠詞aが必要 |
+| on internet | on the internet | 冠詞theが必要 |
+| I can know many things | I can learn many things | knowよりlearnが自然 |
 
 ---
 
