@@ -14,7 +14,9 @@
 7. [Chapter 6: 発音・聞き取り注意ポイント](#chapter6)
 8. [Chapter 7: 重要単語リスト](#chapter7)
 9. [Chapter 8: 練習問題・セルフチェック](#chapter8)
-10. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
+10. [Lesson 8: Motivation & Career（モチベーション・キャリア）](#lesson8) ← NEW
+11. [Lesson 9: Moving to Another Country（海外移住）](#lesson9) ← NEW
+12. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
 
 ---
 
@@ -1699,6 +1701,498 @@ once（1回）, twice（2回）は特別な形
 - [ ] 値段について3つ以上の表現を知っている
 - [ ] 仕事の不満について3つ以上の表現を知っている
 - [ ] 趣味にハマっていることを3つ以上の方法で言える
+
+---
+
+<a name="lesson8"></a>
+# Lesson 8: Motivation & Career【モチベーション・キャリア】
+
+## レッスン概要
+- **トピック**: 仕事のモチベーション、キャリア、英語学習
+- **評価**: C-（基礎に問題あり）
+- **主な課題**: 時制の混乱、used to の誤用、冠詞の欠如
+
+---
+
+## 8.1 致命的エラー：時制の混乱
+
+### 現在完了形 vs 過去形
+
+```
+❌ Bad: "I became Software Engineer for three years just now"
+✅ Good: "I've been a software engineer for three years"
+
+❌ Bad: "for a long time, three years, I'm 25 did my university"
+✅ Good: "I've been working for three years. I'm 25. I graduated from university."
+```
+
+**ルール**: 「〜年間やっている」は **have been ~ing** または **have + 過去分詞**
+
+| 場面 | 正しい表現 |
+|------|-----------|
+| 3年間働いている | I've been working for three years |
+| 3年前から英語を学んでいる | I've been learning English for three years |
+| 大学を卒業した | I graduated from university |
+
+---
+
+## 8.2 used to の3パターン【超重要】
+
+### 完全に区別しろ
+
+| 表現 | 意味 | 例文 |
+|------|------|------|
+| **used to + 動詞** | 昔は〜した | I **used to** play baseball. |
+| **be used to + 名詞/動名詞** | 〜に慣れている | I'**m used to** working hard. |
+| **get used to + 名詞/動名詞** | 〜に慣れる | I'm **getting used to** my new job. |
+
+### あなたの間違い
+
+```
+❌ Bad: "I used to, used to doing my work. So it's unmotivated"
+
+✅ Good: "I've gotten used to my work, so I'm feeling unmotivated"
+✅ Good: "My work has become routine, so I'm not as motivated anymore"
+```
+
+### 練習問題
+
+空欄を埋めよ：
+
+1. I ___ ___ play baseball in high school. (昔は野球をしていた)
+2. I'm ___ ___ working long hours. (長時間労働に慣れている)
+3. I'm ___ ___ ___ speaking English. (英語を話すことに慣れてきている)
+
+<details>
+<summary>答えを見る</summary>
+
+1. used to
+2. used to
+3. getting used to
+</details>
+
+---
+
+## 8.3 冠詞の欠如【毎回抜けている】
+
+| あなたの発言 | 問題点 | 正しい表現 |
+|-------------|--------|-----------|
+| "I'm software engineer" | a が必要 | "I'm **a** software engineer" |
+| "I'm AI engineer" | an が必要 | "I'm **an** AI engineer" |
+| "I'm rare person" | a が必要 | "I'm **a** rare person" |
+| "I have good colleague" | 複数形 | "I have good **colleagues**" |
+
+**ルール**: 職業を言うとき、必ず **a/an** をつける
+
+```
+✅ I'm a software engineer.
+✅ I'm an AI engineer.
+✅ She's a teacher.
+```
+
+---
+
+## 8.4 前置詞の問題
+
+| あなたの発言 | 問題点 | 正しい表現 |
+|-------------|--------|-----------|
+| "graduated university" | from が必要 | "graduated **from** university" |
+| "I came back Japan" | to が必要 | "I came back **to** Japan" |
+| "enter native camp" | 動詞の選択 | "**joined** Native Camp" |
+
+```
+❌ Bad: I graduated university.
+✅ Good: I graduated from university.
+
+❌ Bad: I came back Japan.
+✅ Good: I came back to Japan.
+```
+
+---
+
+## 8.5 モチベーションを語る表現
+
+### 正しい表現集
+
+| 日本語 | 英語 |
+|--------|------|
+| お金がモチベーション | Money motivates me |
+| 同僚との関係が大事 | I value my relationships with colleagues |
+| 好奇心がある | I'm driven by curiosity |
+| 新しいことを学べる | I can learn new things every day |
+| やりがいがある | The work is rewarding |
+| マンネリ化している | I'm stuck in a rut |
+| 仕事に慣れてしまった | I've gotten used to my work |
+
+### 使える例文
+
+```
+✅ "Money is one of my main motivations for working."
+✅ "I enjoy working with my colleagues."
+✅ "The AI field is always evolving, which keeps me interested."
+✅ "I've gotten used to my work, so I'm looking for new challenges."
+```
+
+---
+
+## 8.6 キャリアを語る表現
+
+### 転職・キャリアチェンジ
+
+| 日本語 | 英語 |
+|--------|------|
+| 転職したい | I want to change jobs |
+| もっと稼ぎたい | I want to earn more / get a higher salary |
+| 環境を変えたい | I want to change my environment |
+| 大企業に入りたい | I want to join a big company |
+| スキルが需要がある | My skills are in high demand |
+
+```
+❌ Bad: "I'm very rare person"
+✅ Good: "My skills are in high demand"
+✅ Good: "There's a high demand for AI engineers"
+
+❌ Bad: "high money, high salaries"
+✅ Good: "a higher salary"
+```
+
+---
+
+## 8.7 英語学習について語る
+
+### あなたの発言の修正
+
+```
+❌ Bad: "I try to know a new idiom"
+✅ Good: "I try to learn new idioms"
+
+❌ Bad: "I can have new knowledge"
+✅ Good: "I can learn new things"
+```
+
+| 日本語 | 英語 |
+|--------|------|
+| イディオムを覚える | learn idioms |
+| 文法を復習する | review grammar |
+| 発音を練習する | practice pronunciation |
+| フリートークをする | have free conversations |
+
+---
+
+## 8.8 音声認識の誤変換
+
+| 認識された | 意図 | 対策 |
+|-----------|------|------|
+| "Shaw" | Sho | 名前をはっきり発音 |
+| "became...just now" | have been | 時制を意識 |
+| "I'm rare person" | 需要がある | "in high demand" を使う |
+
+---
+
+## 8.9 Lesson 8 練習問題
+
+### 問題1: 時制の修正
+
+1. "I became software engineer for three years."
+2. "I graduated university."
+3. "I came back Japan last year."
+4. "I used to doing my work."
+
+<details>
+<summary>答えを見る</summary>
+
+1. I've been a software engineer for three years.
+2. I graduated from university.
+3. I came back to Japan last year.
+4. I've gotten used to my work. / I'm used to my work.
+</details>
+
+### 問題2: 冠詞を追加
+
+1. "I'm ___ software engineer."
+2. "I'm ___ AI engineer."
+3. "She's ___ teacher."
+
+<details>
+<summary>答えを見る</summary>
+
+1. a
+2. an
+3. a
+</details>
+
+---
+
+<a name="lesson9"></a>
+# Lesson 9: Moving to Another Country【海外移住】
+
+## レッスン概要
+- **トピック**: 海外移住、旅行経験、ダイビング、セブ島
+- **評価**: C（基礎に問題あり）
+- **主な課題**: 国名の言い方、現在完了形、言い直しの多さ
+
+---
+
+## 9.1 国名の言い方【致命的】
+
+### 形容詞と国名を混同している
+
+| あなたの発言 | 問題点 | 正しい表現 |
+|-------------|--------|-----------|
+| "I've been to **Taiwanese**" | 形容詞を使用 | "I've been to **Taiwan**" |
+| "I've been to **Philippine**" | 単数形 | "I've been to **the Philippines**" |
+| "I've been to **Thai**" | 形容詞を使用 | "I've been to **Thailand**" |
+| "I've been to **British**" | 形容詞を使用 | "I've been to **the UK**" |
+
+### 国名 vs 形容詞/国民
+
+| 国名 | 形容詞/国民 |
+|------|-----------|
+| Taiwan | Taiwanese |
+| the Philippines | Filipino |
+| Thailand | Thai |
+| the UK / Britain | British |
+| Japan | Japanese |
+
+```
+✅ I've been to Taiwan. (国名)
+✅ I like Taiwanese food. (形容詞)
+✅ I met a Taiwanese person. (国民)
+```
+
+---
+
+## 9.2 現在完了形の正しい使い方
+
+### 経験を語る：have been to
+
+```
+❌ Bad: "I've not. I've never been to. I've been to many South Asia country"
+
+✅ Good: "I've never been to Australia."
+✅ Good: "I've been to many Southeast Asian countries."
+```
+
+### 否定形
+
+```
+❌ Bad: "I've not decided anything"
+✅ Good: "I haven't decided on anything yet"
+```
+
+| 肯定 | 否定 | 疑問 |
+|------|------|------|
+| I've been to Taiwan | I haven't been to Canada | Have you been to Europe? |
+| I've visited 10 countries | I've never visited Africa | How many countries have you visited? |
+
+---
+
+## 9.3 海外移住の表現
+
+### 移住について語る
+
+| 日本語 | 英語 |
+|--------|------|
+| 海外に住むことを考えている | I've thought about living abroad |
+| 〜に移住したい | I'd like to move to ~ |
+| 〜に永住したい | I'd like to settle down in ~ |
+| 人気の移住先 | a popular destination for immigrants |
+
+```
+❌ Bad: "I want to be with them" (国について)
+✅ Good: "I'd like to move to one of those countries"
+✅ Good: "Australia and Canada are popular destinations for Japanese people"
+```
+
+---
+
+## 9.4 移住の課題を語る
+
+### ビザの問題
+
+| 日本語 | 英語 |
+|--------|------|
+| ビザが必要 | I need to get a visa |
+| ビザの取得が難しい | Getting a visa is difficult |
+| 就労ビザ | a work visa |
+| 永住権 | permanent residency |
+
+```
+✅ "The main problem is getting a visa."
+✅ "Some countries have strict visa requirements."
+```
+
+### 文化適応
+
+| 日本語 | 英語 |
+|--------|------|
+| 文化に適応する | adjust to the culture |
+| 時差に慣れる | get used to the time difference |
+| 気候に慣れる | get used to the climate |
+| ホームシックになる | feel homesick |
+
+```
+❌ Bad: "not used to being another culture"
+✅ Good: "It takes time to adjust to a different culture"
+```
+
+---
+
+## 9.5 旅行経験を語る
+
+### 何カ国行った？
+
+```
+❌ Bad: "How many countries have you been traveled?"
+✅ Good: "How many countries have you been to?"
+✅ Good: "How many countries have you visited?"
+```
+
+### 滞在経験
+
+```
+❌ Bad: "I've been to Cebu for one month to go to school"
+✅ Good: "I stayed in Cebu for a month to study English"
+✅ Good: "I spent a month in Cebu at a language school"
+```
+
+---
+
+## 9.6 気候・天気の表現
+
+### 寒さについて
+
+```
+❌ Bad: "similar coldness"
+✅ Good: "similar climate"
+✅ Good: "similar temperatures"
+
+❌ Bad: "I'm not good at cold weather"
+✅ Good: "I don't handle the cold well"
+✅ Good: "I'm not used to cold weather"
+```
+
+| 日本語 | 英語 |
+|--------|------|
+| 寒いのが苦手 | I don't handle the cold well |
+| 暑いのが好き | I prefer warm weather |
+| 気候が似ている | The climate is similar |
+
+---
+
+## 9.7 ダイビングの表現
+
+### ライセンス
+
+| 日本語 | 英語 |
+|--------|------|
+| ダイビングライセンス | diving certification / diving license |
+| オープンウォーター | Open Water certification |
+| スキューバダイビング | scuba diving |
+| フリーダイビング | freediving |
+
+```
+✅ "I got my Open Water certification in Mactan."
+✅ "Scuba diving is more expensive than freediving."
+```
+
+### 海の透明度
+
+```
+❌ Bad: "The ocean is not Korean" (not clear の意味で)
+✅ Good: "The water isn't very clear"
+✅ Good: "The visibility is poor"
+```
+
+| 日本語 | 英語 |
+|--------|------|
+| 透明度が高い | The visibility is great |
+| 水がきれい | The water is crystal clear |
+| 透明度が低い | The visibility is poor |
+
+---
+
+## 9.8 セブ島・フィリピンの地名
+
+### 音声認識で誤変換されやすい
+
+| 認識された | 正しい | 対策 |
+|-----------|--------|------|
+| McDonald | Mactan | 「マクタン」とゆっくり |
+| markdown | Mactan | 同上 |
+| colon | Colon (地名) | 文脈で判断 |
+| Mango Street | Mango Street | 正しい |
+
+```
+✅ "I stayed in Cebu City, near Mango Street."
+✅ "I got my diving license in Mactan."
+```
+
+---
+
+## 9.9 ノスタルジーの表現
+
+```
+❌ Bad: "It's nostalgic" (認識: "let me touch")
+
+✅ Good: "It brings back memories"
+✅ Good: "I feel nostalgic about my time there"
+✅ Good: "Talking about Cebu makes me nostalgic"
+```
+
+---
+
+## 9.10 Lesson 9 練習問題
+
+### 問題1: 国名を正しく書け
+
+1. "I've been to Taiwanese." →
+2. "I've been to Thai." →
+3. "I've been to British." →
+4. "I've been to Philippine." →
+
+<details>
+<summary>答えを見る</summary>
+
+1. I've been to Taiwan.
+2. I've been to Thailand.
+3. I've been to the UK. / I've been to Britain.
+4. I've been to the Philippines.
+</details>
+
+### 問題2: 英作文
+
+1. オーストラリアかカナダに移住したいと思っています。
+2. ビザを取得するのが一番の問題です。
+3. 10カ国以上行ったことがあります。
+4. セブで1ヶ月間英語を勉強しました。
+5. マクタンでダイビングのライセンスを取りました。
+
+<details>
+<summary>答えを見る</summary>
+
+1. I've thought about moving to Australia or Canada.
+2. The main problem is getting a visa.
+3. I've been to more than 10 countries.
+4. I studied English in Cebu for a month.
+5. I got my diving certification in Mactan.
+</details>
+
+### 問題3: 現在完了形
+
+以下を現在完了形で書け：
+
+1. カナダに行ったことがない
+2. 多くの国を訪れた
+3. まだ決めていない
+
+<details>
+<summary>答えを見る</summary>
+
+1. I've never been to Canada. / I haven't been to Canada.
+2. I've visited many countries. / I've been to many countries.
+3. I haven't decided yet.
+</details>
 
 ---
 
