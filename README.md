@@ -17,8 +17,9 @@
 10. [Lesson 8: Motivation & Career（モチベーション・キャリア）](#lesson8)
 11. [Lesson 9: Moving to Another Country（海外移住）](#lesson9)
 12. [Lesson 10: Happiness and Life（幸福と人生）](#lesson10)
-13. [Lesson 11: Meaning in Life（人生の意味）](#lesson11) ← NEW
-14. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
+13. [Lesson 11: Meaning in Life（人生の意味）](#lesson11)
+14. [Lesson 12: Life and Death（生と死）](#lesson12) ← NEW
+15. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
 
 ---
 
@@ -2390,6 +2391,108 @@ On New Year's Day, we visit shrines or temples to pray.
 1. Most people are driven by money.
 2. That doesn't make sense.
 3. I visit a shrine on New Year's Day.
+</details>
+
+---
+
+<a name="lesson12"></a>
+# Lesson 12: Life and Death【生と死について】
+
+## レッスン概要
+- **トピック**: 死への恐怖、人生の楽しみ方、死後の世界、死因
+- **評価**: C+（改善の兆しあり）
+- **主な課題**: live vs leave の混同、時制の混乱
+
+---
+
+## 12.1 致命的エラー：live vs leave の混同
+
+```
+❌ Bad: "I want to leave another country"
+✅ Good: "I want to live in another country"
+
+❌ Bad: "leave your life"
+✅ Good: "live your life"
+```
+
+| 動詞 | 発音 | 意味 |
+|------|------|------|
+| live /lɪv/ | リヴ（短いi） | 住む、生きる |
+| leave /liːv/ | リーヴ（長いi） | 去る、出発する |
+
+---
+
+## 12.2 重要エラー：illness vs disease
+
+```
+❌ Bad: "the main cause of death is illness"
+✅ Good: "the main cause of death is disease"
+```
+
+| 単語 | 意味 | 例 |
+|------|------|-----|
+| illness | 病気（軽いものも含む） | minor illness |
+| disease | 病気（特定の重い病気） | heart disease, cancer |
+
+---
+
+## 12.3 新出イディオム
+
+### "be in a rush"
+**意味**: 急いでいる
+```
+例: I'm in a rush to learn English.
+```
+
+### "change one's mind"
+**意味**: 気持ちが変わる
+```
+例: Maybe someday I will change my mind.
+```
+
+### "check it out"
+**意味**: 確認する、見てみる
+```
+例: I'll check it out on Netflix.
+```
+
+---
+
+## 12.4 死について語る表現
+
+| 日本語 | 英語 |
+|--------|------|
+| 死を恐れる | be afraid of death |
+| 死後の世界 | life after death |
+| 天国と地獄 | heaven and hell |
+| 主な死因 | the main cause of death |
+
+---
+
+## 12.5 練習問題
+
+### A. live と leave を正しく使い分けよ
+1. I want to ___ in America someday.
+2. I will ___ Japan next year.
+3. ___ your life to the fullest.
+
+### B. 日本語を英語に
+1. 私は死を恐れていない
+2. 若いうちに人生を楽しみなさい
+3. 気持ちが変わるかもしれない
+
+<details>
+<summary>解答を見る</summary>
+
+### A. live と leave を正しく使い分けよ
+1. I want to **live** in America someday.
+2. I will **leave** Japan next year.
+3. **Live** your life to the fullest.
+
+### B. 日本語を英語に
+1. I'm not afraid of death.
+2. Enjoy your life while you're still young.
+3. I might change my mind.
 </details>
 
 ---
