@@ -14,9 +14,10 @@
 7. [Chapter 6: 発音・聞き取り注意ポイント](#chapter6)
 8. [Chapter 7: 重要単語リスト](#chapter7)
 9. [Chapter 8: 練習問題・セルフチェック](#chapter8)
-10. [Lesson 8: Motivation & Career（モチベーション・キャリア）](#lesson8) ← NEW
-11. [Lesson 9: Moving to Another Country（海外移住）](#lesson9) ← NEW
-12. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
+10. [Lesson 8: Motivation & Career（モチベーション・キャリア）](#lesson8)
+11. [Lesson 9: Moving to Another Country（海外移住）](#lesson9)
+12. [Lesson 10: Happiness and Life（幸福と人生）](#lesson10) ← NEW
+13. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
 
 ---
 
@@ -2192,6 +2193,103 @@ once（1回）, twice（2回）は特別な形
 1. I've never been to Canada. / I haven't been to Canada.
 2. I've visited many countries. / I've been to many countries.
 3. I haven't decided yet.
+</details>
+
+---
+
+<a name="lesson10"></a>
+# Lesson 10: Happiness and Life【幸福と人生の洞察】
+
+## レッスン概要
+- **トピック**: 幸福とは何か、子供時代の思い出、お金と幸せの関係
+- **評価**: C（基礎に問題あり）
+- **主な課題**: 時制の混乱、冠詞の欠如、複数形の欠如
+
+---
+
+## 10.1 致命的エラー：可算名詞の複数形
+
+```
+❌ Bad: "when we were child"
+✅ Good: "when we were children"
+
+❌ Bad: "50 member"
+✅ Good: "50 members"
+
+❌ Bad: "two hour"
+✅ Good: "two hours"
+```
+
+**ルール**: 数詞や many/a lot of の後は**複数形**
+
+---
+
+## 10.2 重要エラー：前置詞の誤用
+
+```
+❌ Bad: "it is very near from my house"
+✅ Good: "it is very close to my hometown"
+
+❌ Bad: "I moved only from my family"
+✅ Good: "I moved away from my family"
+```
+
+### near vs close の使い分け
+| 表現 | 使い方 |
+|------|--------|
+| near | near + 名詞（前置詞不要）: "near my house" |
+| close | close to + 名詞: "close to my house" |
+
+---
+
+## 10.3 新出イディオム
+
+### "Live your life to the fullest"
+**意味**: 人生を精一杯生きる、後悔なく生きる
+
+### "Don't take everything personally"
+**意味**: 何事も個人的に受け取りすぎない
+
+### "get along with ~"
+**意味**: 〜と仲良くやっている
+
+---
+
+## 10.4 幸福について話す表現
+
+| 日本語 | 英語 |
+|--------|------|
+| 幸せを感じる | I feel happy |
+| 〜が私を幸せにする | ~ makes me happy |
+| 小さな幸せ | small joys |
+| お金は幸せに必要ではない | Money is not a requirement for happiness |
+
+---
+
+## 10.5 練習問題
+
+### A. 複数形に直せ
+1. I have two hour before the meeting.
+2. There are 50 member in our share house.
+3. When we were child, we felt happy easily.
+
+### B. 日本語を英語に
+1. 私は子供の頃、野球をしていた
+2. 人生を精一杯生きるべきだ
+3. ルームメイトとうまくやっている
+
+<details>
+<summary>解答を見る</summary>
+
+### A. 複数形に直せ
+1. I have two **hours** before the meeting.
+2. There are 50 **members** in our share house.
+3. When we were **children**, we felt happy easily.
+
+### B. 日本語を英語に
+1. I played baseball when I was a child.
+2. You should live your life to the fullest.
+3. I get along well with my roommates.
 </details>
 
 ---
