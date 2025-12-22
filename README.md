@@ -16,8 +16,9 @@
 9. [Chapter 8: 練習問題・セルフチェック](#chapter8)
 10. [Lesson 8: Motivation & Career（モチベーション・キャリア）](#lesson8)
 11. [Lesson 9: Moving to Another Country（海外移住）](#lesson9)
-12. [Lesson 10: Happiness and Life（幸福と人生）](#lesson10) ← NEW
-13. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
+12. [Lesson 10: Happiness and Life（幸福と人生）](#lesson10)
+13. [Lesson 11: Meaning in Life（人生の意味）](#lesson11) ← NEW
+14. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
 
 ---
 
@@ -2290,6 +2291,105 @@ once（1回）, twice（2回）は特別な形
 1. I played baseball when I was a child.
 2. You should live your life to the fullest.
 3. I get along well with my roommates.
+</details>
+
+---
+
+<a name="lesson11"></a>
+# Lesson 11: Meaning in Life【人生の意味】
+
+## レッスン概要
+- **トピック**: 人生の意味、幸福、宗教観、経験
+- **評価**: C（基礎に問題あり）
+- **主な課題**: 前置詞の誤用、時制の混乱、不完全な文
+
+---
+
+## 11.1 致命的エラー：believe in の欠如
+
+```
+❌ Bad: "I don't believe God"
+✅ Good: "I don't believe in God"
+```
+
+**ルール**: 存在・価値を信じる場合は **believe in** を使う
+
+| 表現 | 意味 |
+|------|------|
+| believe + 人 | 〜の言葉を信じる |
+| believe in + 人/物 | 〜の存在・価値を信じる |
+
+---
+
+## 11.2 重要エラー：apply の使い方
+
+```
+❌ Bad: "I applied English agent"
+✅ Good: "I applied to an English travel agency"
+```
+
+| 表現 | 意味 |
+|------|------|
+| apply to + 会社/学校 | 〜に応募する |
+| apply for + 仕事/ビザ | 〜を申請する |
+
+---
+
+## 11.3 新出イディオム
+
+### "be driven by ~"
+**意味**: 〜に駆り立てられる
+```
+例: Most people's lives are driven by money.
+```
+
+### "make sense"
+**意味**: 意味をなす、理解できる
+```
+例: That doesn't make sense.
+```
+
+### "no offense"
+**意味**: 悪気はない（クッション言葉）
+
+---
+
+## 11.4 日本の宗教観を説明する表現
+
+```
+We celebrate Christmas and Halloween, but most of us don't believe in Christianity.
+私たちはクリスマスやハロウィンを祝いますが、キリスト教徒は少ないです。
+
+On New Year's Day, we visit shrines or temples to pray.
+正月には神社やお寺に参拝します。
+```
+
+---
+
+## 11.5 練習問題
+
+### A. 前置詞を入れよ
+1. I don't believe ___ ghosts.
+2. She applied ___ the university.
+3. He applied ___ a scholarship.
+
+### B. 日本語を英語に
+1. 多くの人はお金に駆り立てられている
+2. それは意味をなさない
+3. 正月に神社に行きます
+
+<details>
+<summary>解答を見る</summary>
+
+### A. 前置詞を入れよ
+1. I don't believe **in** ghosts.
+2. She applied **to** the university.
+3. He applied **for** a scholarship.
+
+### B. 日本語を英語に
+1. Most people are driven by money.
+2. That doesn't make sense.
+3. I visit a shrine on New Year's Day.
 </details>
 
 ---
