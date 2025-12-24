@@ -18,8 +18,9 @@
 11. [Lesson 9: Moving to Another Country（海外移住）](#lesson9)
 12. [Lesson 10: Happiness and Life（幸福と人生）](#lesson10)
 13. [Lesson 11: Meaning in Life（人生の意味）](#lesson11)
-14. [Lesson 12: Life and Death（生と死）](#lesson12) ← NEW
-15. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
+14. [Lesson 12: Life and Death（生と死）](#lesson12)
+15. [Lesson 13: Unexplained & Honesty（不可解な現象と誠実さ）](#lesson13) ← NEW
+16. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
 
 ---
 
@@ -2493,6 +2494,101 @@ On New Year's Day, we visit shrines or temples to pray.
 1. I'm not afraid of death.
 2. Enjoy your life while you're still young.
 3. I might change my mind.
+</details>
+
+---
+
+<a name="lesson13"></a>
+# Lesson 13: Unexplained & Honesty【不可解な現象と誠実さ】
+
+## レッスン概要
+- **トピック**: 説明できない現象、宗教、占い、誠実さ
+- **評価**: C（基礎に問題あり）
+- **主な課題**: pray/play の混同、believe in の欠如
+
+---
+
+## 13.1 致命的エラー：pray vs play
+
+```
+❌ Bad: "we go to shrine to play"
+✅ Good: "we go to shrine to pray"
+```
+
+| 単語 | 意味 |
+|------|------|
+| play /pleɪ/ | 遊ぶ、演奏する |
+| pray /preɪ/ | 祈る |
+
+発音はほぼ同じだが、スペルと意味が異なる！
+
+---
+
+## 13.2 重要エラー：advise vs advice
+
+```
+❌ Bad: "they can advise them very effective"
+✅ Good: "they can give effective advice"
+```
+
+| 単語 | 品詞 | 意味 |
+|------|------|------|
+| advise | 動詞 | アドバイスする |
+| advice | 名詞 | アドバイス（不可算） |
+
+---
+
+## 13.3 新出イディオム
+
+### "come true"
+**意味**: 実現する
+```
+例: Have you had a dream that came true?
+```
+
+### "fall apart"
+**意味**: 崩壊する
+```
+例: Without honesty, the world would fall apart.
+```
+
+---
+
+## 13.4 不可解な現象・誠実さの表現
+
+| 日本語 | 英語 |
+|--------|------|
+| 占い師 | fortune teller |
+| 未来を予言する | predict the future |
+| 正夢 | a dream that comes true |
+| 誠実に生きる | live honestly |
+
+---
+
+## 13.5 練習問題
+
+### A. play と pray を正しく使い分けよ
+1. I ___ the piano every day.
+2. We go to the shrine to ___.
+3. People ___ for good luck.
+
+### B. 日本語を英語に
+1. 占い師に行ったことがありますか？
+2. 正夢を見たことがある
+3. 誠実さがなければ世界は崩壊する
+
+<details>
+<summary>解答を見る</summary>
+
+### A. play と pray を正しく使い分けよ
+1. I **play** the piano every day.
+2. We go to the shrine to **pray**.
+3. People **pray** for good luck.
+
+### B. 日本語を英語に
+1. Have you ever visited a fortune teller?
+2. I've had a dream that came true.
+3. Without honesty, the world would fall apart.
 </details>
 
 ---
