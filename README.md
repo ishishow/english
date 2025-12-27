@@ -19,8 +19,9 @@
 12. [Lesson 10: Happiness and Life（幸福と人生）](#lesson10)
 13. [Lesson 11: Meaning in Life（人生の意味）](#lesson11)
 14. [Lesson 12: Life and Death（生と死）](#lesson12)
-15. [Lesson 13: Unexplained & Honesty（不可解な現象と誠実さ）](#lesson13) ← NEW
-16. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
+15. [Lesson 13: Unexplained & Honesty（不可解な現象と誠実さ）](#lesson13)
+16. [Lesson 14: Cultural Exchange（文化交流）](#lesson14) ← NEW
+17. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
 
 ---
 
@@ -2589,6 +2590,91 @@ On New Year's Day, we visit shrines or temples to pray.
 1. Have you ever visited a fortune teller?
 2. I've had a dream that came true.
 3. Without honesty, the world would fall apart.
+</details>
+
+---
+
+<a name="lesson14"></a>
+# Lesson 14: Cultural Exchange【文化交流】
+
+## レッスン概要
+- **トピック**: フィリピン料理、旅行経験、趣味、世界平和
+- **評価**: C+（改善の兆しあり）
+- **主な課題**: 疑問文の時制、live vs leave の混同
+
+---
+
+## 14.1 致命的エラー：疑問文の時制
+
+```
+❌ Bad: "Which country have you went to?"
+✅ Good: "Which country have you been to?"
+
+❌ Bad: "Why did you went there?"
+✅ Good: "Why did you go there?"
+```
+
+| 文型 | 正しい形 |
+|------|----------|
+| Have you + 過去分詞 | Have you been to...? |
+| Did you + 原形 | Did you go to...? |
+
+---
+
+## 14.2 新出イディオム
+
+### "show someone around"
+**意味**: 〜を案内する
+```
+例: He showed me around Manila.
+```
+
+### "I envy you"
+**意味**: うらやましい
+```
+例: I really envy you.
+```
+
+### "run out of time"
+**意味**: 時間がなくなる
+
+---
+
+## 14.3 フィリピン文化の語彙
+
+| 単語 | 意味 |
+|------|------|
+| lechon | レチョン（豚の丸焼き） |
+| balut | バロット（アヒルの卵） |
+| halo-halo | ハロハロ（かき氷デザート） |
+| ube | ウベ（紫芋） |
+
+---
+
+## 14.4 練習問題
+
+### A. 疑問文の時制を正しく直せ
+1. Which country have you went to?
+2. Have you ever ate balut?
+3. Why did you went there?
+
+### B. 日本語を英語に
+1. フィリピンに行ったことがありますか？
+2. 彼が東京を案内してくれた
+3. 異なる文化を理解することは重要だ
+
+<details>
+<summary>解答を見る</summary>
+
+### A. 疑問文の時制を正しく直せ
+1. Which country **have you been to**?
+2. Have you ever **eaten** balut?
+3. Why **did you go** there?
+
+### B. 日本語を英語に
+1. Have you ever been to the Philippines?
+2. He showed me around Tokyo.
+3. It's important to understand different cultures.
 </details>
 
 ---
