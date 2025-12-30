@@ -20,8 +20,11 @@
 13. [Lesson 11: Meaning in Life（人生の意味）](#lesson11)
 14. [Lesson 12: Life and Death（生と死）](#lesson12)
 15. [Lesson 13: Unexplained & Honesty（不可解な現象と誠実さ）](#lesson13)
-16. [Lesson 14: Cultural Exchange（文化交流）](#lesson14) ← NEW
-17. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
+16. [Lesson 14: Cultural Exchange（文化交流）](#lesson14)
+17. [Lesson 15: Weather & Success（天気と成功）](#lesson15)
+18. [Lesson 16: Time Travel & Study Abroad（タイムトラベルと留学）](#lesson16)
+19. [Lesson 17: Household Chores（家事）](#lesson17) ← NEW
+20. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
 
 ---
 
@@ -2675,6 +2678,124 @@ On New Year's Day, we visit shrines or temples to pray.
 1. Have you ever been to the Philippines?
 2. He showed me around Tokyo.
 3. It's important to understand different cultures.
+</details>
+
+---
+
+<a name="lesson15"></a>
+# Lesson 15: Weather & Success【天気と成功】
+
+## レッスン概要
+- **トピック**: 天気、気分への影響、天気予報、成功の定義
+- **評価**: C+
+- **主な課題**: rain hard vs hardly、success vs successful
+
+---
+
+## 15.1 重要エラー：rain の使い方
+
+```
+❌ Bad: "if it rains hardly"
+✅ Good: "if it rains hard"
+```
+
+**注意**: hardly = ほとんど〜ない（否定の意味）、hard = 激しく
+
+---
+
+## 15.2 新出表現
+
+| 表現 | 意味 |
+|------|------|
+| deal with | 対処する |
+| get blamed | 非難される |
+| be patient | 忍耐強い |
+| networking is essential | 人脈作りは不可欠 |
+
+---
+
+<a name="lesson16"></a>
+# Lesson 16: Time Travel & Study Abroad【タイムトラベルと留学】
+
+## レッスン概要
+- **トピック**: タイムトラベル、留学経験、英語学習
+- **評価**: B-
+- **主な課題**: exist の使い方、仮定法
+
+---
+
+## 16.1 重要エラー：exist の使い方
+
+```
+❌ Bad: "it's not exist"
+✅ Good: "it doesn't exist"
+```
+
+---
+
+## 16.2 仮定法
+
+```
+If I had a time machine, I would go to the future.
+タイムマシンがあったら、未来に行くだろう。
+```
+
+---
+
+## 16.3 新出表現
+
+| 表現 | 意味 |
+|------|------|
+| learning never ends | 学びに終わりはない |
+| gain confidence | 自信を得る |
+| English is a requirement | 英語は必須条件 |
+
+---
+
+<a name="lesson17"></a>
+# Lesson 17: Household Chores【家事】
+
+## レッスン概要
+- **トピック**: 家事、シェアハウス生活、掃除習慣
+- **評価**: B-
+- **主な課題**: 頻度の表現、afraid/worried/bothered
+
+---
+
+## 17.1 重要エラー：頻度の表現
+
+```
+❌ Bad: "once three months"
+✅ Good: "once every three months"
+```
+
+**注意**: quite a few = かなり多い（少ないという意味ではない！）
+
+---
+
+## 17.2 新出表現
+
+| 表現 | 意味 |
+|------|------|
+| be in the mood for ~ | 〜する気分である |
+| I can relate to you | あなたの気持ちがわかる |
+| do it voluntarily | 自発的にやる |
+
+---
+
+## 17.3 練習問題
+
+### A. 正しい形に直せ
+1. If it rains hardly, I stay home.
+2. Time machines is not exist.
+3. I clean my room once two weeks.
+
+<details>
+<summary>解答を見る</summary>
+
+1. If it rains **hard**, I stay home.
+2. Time machines **do not exist**.
+3. I clean my room **once every two weeks**.
 </details>
 
 ---
