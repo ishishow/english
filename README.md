@@ -23,8 +23,10 @@
 16. [Lesson 14: Cultural Exchange（文化交流）](#lesson14)
 17. [Lesson 15: Weather & Success（天気と成功）](#lesson15)
 18. [Lesson 16: Time Travel & Study Abroad（タイムトラベルと留学）](#lesson16)
-19. [Lesson 17: Household Chores（家事）](#lesson17) ← NEW
-20. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
+19. [Lesson 17: Household Chores（家事）](#lesson17)
+20. [Lesson 18: Weather, Mood & Hiking（天気・気分・ハイキング）](#lesson18)
+21. [Lesson 19: Leadership, Career & Travel（リーダーシップ・キャリア・旅行）](#lesson19) ← NEW
+22. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
 
 ---
 
@@ -2796,6 +2798,216 @@ If I had a time machine, I would go to the future.
 1. If it rains **hard**, I stay home.
 2. Time machines **do not exist**.
 3. I clean my room **once every two weeks**.
+</details>
+
+---
+
+<a name="lesson18"></a>
+# Lesson 18: Weather, Mood & Hiking【天気・気分・ハイキング】
+
+## レッスン概要
+- **トピック**: 好きな天気、パキスタンの文化、ハイキング、初日の出
+- **評価**: B（良い傾向）
+- **主な課題**: live vs leave の混同、recall の理解、形容詞の使い方
+
+---
+
+## 18.1 重要エラー：live vs leave の継続的な混同
+
+```
+❌ Bad: "I can't leave 50 temperature"
+✅ Good: "I can't live in 50 degree weather" / "I can't survive in 50 degrees"
+```
+
+**再確認**:
+- **live** /lɪv/ = 住む、生きる、生存する
+- **leave** /liːv/ = 去る、出発する
+
+---
+
+## 18.2 重要エラー：temperature の表現
+
+```
+❌ Bad: "50 temperature"
+✅ Good: "50 degrees" / "a temperature of 50 degrees"
+```
+
+### 気温を表現する
+
+| 日本語 | 英語 |
+|--------|------|
+| 50度 | 50 degrees (Celsius) |
+| マイナス10度 | minus 10 degrees / -10 degrees |
+| 気温が上がる | the temperature rises / goes up |
+| 気温が下がる | the temperature drops / goes down |
+
+---
+
+## 18.3 自然な表現への改善
+
+| 不自然な表現 | 自然な表現 |
+|-------------|-----------|
+| "seeing the first son" | "seeing the first sunrise" / "hatsuhinode" |
+| "feeling green" | "being surrounded by greenery" |
+| "I like go outside" | "I like going outside" |
+| "go to hike" | "go hiking" |
+| "I am not good at cold" | "I don't like cold weather" / "I can't handle cold weather" |
+
+---
+
+## 18.4 重要フレーズ：天気とハイキング
+
+### 極端な気候を表現する
+
+| 日本語 | 英語 |
+|--------|------|
+| 極端な気温 | extreme temperature |
+| 快適な気温 | comfortable temperature |
+| 暖かい日 | a warm day |
+| めったに雪が降らない | it rarely snows |
+
+### ハイキングについて
+
+| 日本語 | 英語 |
+|--------|------|
+| ハイキングに行く | go hiking |
+| 頂上 | the top / the summit |
+| 緑に囲まれた | surrounded by greenery |
+| 穏やか | calm / peaceful |
+
+---
+
+## 18.5 日本の初日の出文化を説明する
+
+```
+In Japan, we have a tradition of watching the first sunrise of the year.
+日本では、元日に初日の出を見る伝統があります。
+
+It's called "hatsuhinode" in Japanese.
+日本語では「初日の出」と呼ばれます。
+
+Many people go to mountains or beaches to see it.
+多くの人が山や海に行って見ます。
+```
+
+---
+
+## 18.6 練習問題
+
+### live と leave を正しく使い分けよ
+1. I can't ___ in such hot weather.
+2. I will ___ Japan next month.
+3. Where do you ___?
+4. I want to ___ early tomorrow.
+
+<details>
+<summary>解答</summary>
+
+1. I can't **live** in such hot weather.
+2. I will **leave** Japan next month.
+3. Where do you **live**?
+4. I want to **leave** early tomorrow.
+</details>
+
+---
+
+<a name="lesson19"></a>
+# Lesson 19: Leadership, Career & Travel【リーダーシップ・キャリア・旅行】
+
+## レッスン概要
+- **トピック**: リーダーシップスキル、キャリアチェンジ、海外旅行経験
+- **評価**: B+（良好）
+- **主な課題**: used to の使い方、国名と形容詞の混同、前置詞
+
+---
+
+## 19.1 重要エラー：used to の使い方
+
+```
+❌ Bad: "I used to being, I used to working software as a software engineer"
+✅ Good: "I'm used to working as a software engineer"
+      または "I used to work as a software engineer"
+```
+
+### used to の2つの意味
+
+| 形 | 意味 | 例文 |
+|----|------|------|
+| used to + 動詞の原形 | 以前は〜していた（今はしていない） | I used to smoke. |
+| be used to + ~ing | 〜に慣れている | I'm used to waking up early. |
+| get used to + ~ing | 〜に慣れる | I'm getting used to the new job. |
+
+---
+
+## 19.2 重要エラー：国名と形容詞の混同
+
+```
+❌ Bad: "Taiwanese" (国名として)
+✅ Good: "Taiwan"
+
+❌ Bad: "Philippine"
+✅ Good: "the Philippines"
+```
+
+### 国名と国籍/形容詞
+
+| 国名 | 国籍・形容詞 |
+|------|-------------|
+| Taiwan | Taiwanese |
+| the Philippines | Filipino/Philippine |
+| Greece | Greek |
+| Germany | German |
+
+---
+
+## 19.3 自然な表現への改善
+
+| 不自然な表現 | 自然な表現 |
+|-------------|-----------|
+| "I want to have another excuse" | "I want to gain other skills" |
+| "my weakness point is shy" | "my weakness is shyness" |
+| "get bit of my shyness" | "overcome my shyness" |
+| "compare with ASEAN" | "compared to Southeast Asia" |
+
+---
+
+## 19.4 重要フレーズ：キャリアについて
+
+| 日本語 | 英語 |
+|--------|------|
+| リーダーシップスキル | leadership skills |
+| チームを率いる | lead a team |
+| 部下を管理する | manage people under you |
+| 昇進する | get promoted |
+| 転職する | change jobs / switch companies |
+
+---
+
+## 19.5 重要フレーズ：旅行経験
+
+| 日本語 | 英語 |
+|--------|------|
+| 海外に行ったことがある | have been abroad |
+| 一人旅 | travel alone / solo travel |
+| 語学留学 | study abroad for language learning |
+| スリに遭う | get pickpocketed |
+| 停電 | power outage / blackout |
+
+---
+
+## 19.6 練習問題
+
+### used to を正しく使い分けよ
+1. I ___ smoke, but I quit last year. (以前吸っていた)
+2. I'm ___ waking up early. (慣れている)
+3. I'm getting ___ the new environment. (慣れてきた)
+
+<details>
+<summary>解答</summary>
+
+1. I **used to** smoke, but I quit last year.
+2. I'm **used to** waking up early.
+3. I'm getting **used to** the new environment.
 </details>
 
 ---
