@@ -25,8 +25,11 @@
 18. [Lesson 16: Time Travel & Study Abroad（タイムトラベルと留学）](#lesson16)
 19. [Lesson 17: Household Chores（家事）](#lesson17)
 20. [Lesson 18: Weather, Mood & Hiking（天気・気分・ハイキング）](#lesson18)
-21. [Lesson 19: Leadership, Career & Travel（リーダーシップ・キャリア・旅行）](#lesson19) ← NEW
-22. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
+21. [Lesson 19: Leadership, Career & Travel（リーダーシップ・キャリア・旅行）](#lesson19)
+22. [Lesson 20: Challenges & Japanese New Year（挑戦と日本の正月）](#lesson20)
+23. [Lesson 21: Moon and Travel（月と旅行）](#lesson21)
+24. [Lesson 22: Travel Experiences & Plans（旅行経験と計画）](#lesson22) ← NEW
+25. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
 
 ---
 
@@ -3008,6 +3011,212 @@ Many people go to mountains or beaches to see it.
 1. I **used to** smoke, but I quit last year.
 2. I'm **used to** waking up early.
 3. I'm getting **used to** the new environment.
+</details>
+
+---
+
+<a name="lesson20"></a>
+# Lesson 20: Challenges & Japanese New Year【挑戦と日本の正月】
+
+## レッスン概要
+- **トピック**: 自己成長のための挑戦、煩悩、除夜の鐘の意味
+- **評価**: B+（良好）
+- **主な課題**: 動詞の活用形、形容詞と副詞の混同、前置詞
+
+---
+
+## 20.1 重要エラー：deserve / reserve の混同
+
+```
+❌ Bad: "I deserved the half marathon"
+✅ Good: "I reserved a spot for the half marathon" / "I signed up for the half marathon"
+```
+
+### deserve vs reserve
+
+| 単語 | 意味 | 例文 |
+|------|------|------|
+| deserve | 〜に値する | You deserve a break. |
+| reserve | 予約する | I reserved a table. |
+
+---
+
+## 20.2 重要エラー：形容詞と副詞
+
+```
+❌ Bad: "Don't be seriously about that"
+✅ Good: "Don't be serious about that"
+```
+
+| 構文 | 正しい形 |
+|------|---------|
+| be + 形容詞 | Don't be serious. |
+| 動詞 + 副詞 | Don't take it seriously. |
+
+---
+
+## 20.3 自然な表現への改善
+
+| 不自然な表現 | 自然な表現 |
+|-------------|-----------|
+| "very related" | "highly related" / "closely connected" |
+| "it's so rarely" | "it rarely happens" |
+| "don't give up is good method" | "not giving up is a good approach" |
+| "when I was childhood" | "when I was a child" |
+
+---
+
+## 20.4 日本文化：除夜の鐘を説明する
+
+```
+In Japan, we ring the temple bell 108 times on New Year's Eve.
+日本では大晦日にお寺の鐘を108回鳴らします。
+
+The 108 rings represent the 108 worldly desires, called "bonno."
+108回は「煩悩」と呼ばれる108の世俗的欲望を表しています。
+```
+
+---
+
+## 20.5 練習問題
+
+### deserve と reserve を正しく使い分けよ
+1. You ___ a reward for your hard work.
+2. I ___ a table at the restaurant.
+
+<details>
+<summary>解答</summary>
+
+1. You **deserve** a reward for your hard work.
+2. I **reserved** a table at the restaurant.
+</details>
+
+---
+
+<a name="lesson21"></a>
+# Lesson 21: Moon and Travel【月と旅行】
+
+## レッスン概要
+- **トピック**: 月への興味、お月見文化、西アフリカ旅行
+- **評価**: B（良好）
+- **主な課題**: 冠詞、仮定法、arrive vs land
+
+---
+
+## 21.1 重要エラー：arrive vs land
+
+```
+❌ Bad: "arrived at the moon"
+✅ Good: "landed on the moon"
+```
+
+| 動詞 | 前置詞 | 使い方 |
+|------|--------|--------|
+| arrive | at/in | 場所に着く（一般的） |
+| land | on | 着陸する（宇宙/飛行機） |
+
+---
+
+## 21.2 仮定法過去
+
+```
+❌ Bad: "if we stand on the moon"
+✅ Good: "if we stood on the moon, we would jump very high"
+```
+
+| 構文 | 形 |
+|------|-----|
+| if節 | if + 過去形 |
+| 主節 | would + 原形 |
+
+---
+
+## 21.3 日本文化：月見を説明する
+
+```
+In Japan, we have a tradition called "Tsukimi" (moon viewing).
+日本には「月見」と呼ばれる伝統があります。
+
+We eat "dango" - small sweet rice balls.
+「団子」という小さな甘い餅を食べます。
+
+We pray for a good harvest.
+豊作を祈ります。
+```
+
+---
+
+## 21.4 練習問題
+
+### 仮定法を使って完成させよ
+1. If I ___ (go) to the moon, I ___ (take) many photos.
+
+<details>
+<summary>解答</summary>
+
+1. If I **went** to the moon, I **would take** many photos.
+</details>
+
+---
+
+<a name="lesson22"></a>
+# Lesson 22: Travel Experiences & Plans【旅行経験と計画】
+
+## レッスン概要
+- **トピック**: 東南アジア旅行、一人旅、フィリピン語学留学
+- **評価**: B+（良好）
+- **主な課題**: 時制、単数・複数形、have been to の使い方
+
+---
+
+## 22.1 重要エラー：時制の混乱
+
+```
+❌ Bad: "I've been to many country in 2025"
+✅ Good: "I went to many countries in 2025"
+```
+
+| 状況 | 使う時制 | 例文 |
+|------|---------|------|
+| 具体的な時期あり | 過去形 | I went to Taiwan **last year**. |
+| 経験を語る（時期なし） | 現在完了 | I **have been** to Taiwan. |
+
+---
+
+## 22.2 重要エラー：have been to vs have tried
+
+```
+❌ Bad: "Have you had Nagano Prefecture?"
+✅ Good: "Have you been to Nagano Prefecture?"
+
+❌ Bad: "Have you had Ozoni?"
+✅ Good: "Have you tried Ozoni?"
+```
+
+---
+
+## 22.3 一人旅の感想を表現する
+
+| 日本語 | 英語 |
+|--------|------|
+| 素晴らしい経験だった | It was a wonderful experience. |
+| 感動を共有できない | I couldn't share my emotions. |
+| 友達の大切さに気づいた | I realized the importance of friends. |
+| 寂しかった | I felt lonely. |
+
+---
+
+## 22.4 練習問題
+
+### 正しい時制を選べ
+1. I ___ (go / have been) to Taiwan last year.
+2. I ___ (visited / have visited) five countries so far.
+
+<details>
+<summary>解答</summary>
+
+1. I **went** to Taiwan last year.
+2. I **have visited** five countries so far.
 </details>
 
 ---
