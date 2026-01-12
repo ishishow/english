@@ -28,8 +28,13 @@
 21. [Lesson 19: Leadership, Career & Travel（リーダーシップ・キャリア・旅行）](#lesson19)
 22. [Lesson 20: Challenges & Japanese New Year（挑戦と日本の正月）](#lesson20)
 23. [Lesson 21: Moon and Travel（月と旅行）](#lesson21)
-24. [Lesson 22: Travel Experiences & Plans（旅行経験と計画）](#lesson22) ← NEW
-25. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
+24. [Lesson 22: Travel Experiences & Plans（旅行経験と計画）](#lesson22)
+25. [Lesson 23: Earthquakes & Digital Detox（地震とデジタルデトックス）](#lesson23)
+26. [Lesson 24: My Cozy Room & Favorite Spot（居心地の良い部屋）](#lesson24)
+27. [Lesson 25: Travel Memories & Elderly Care（思い出と高齢者介護）](#lesson25)
+28. [Lesson 26: Local Food & Weekend Activities（郷土料理と週末）](#lesson26)
+29. [Lesson 27: Mountain Climbing Discussion（登山）](#lesson27) ← NEW
+30. [Quick Reference Card（クイックリファレンス）](#quickref) ← 復習用まとめ
 
 ---
 
@@ -3218,6 +3223,233 @@ We pray for a good harvest.
 1. I **went** to Taiwan last year.
 2. I **have visited** five countries so far.
 </details>
+
+---
+
+<a name="lesson23"></a>
+# Lesson 23: Earthquakes & Digital Detox【地震とデジタルデトックス】
+
+## レッスン概要
+- **トピック**: 地震対策、日本の建築技術、デジタルデトックス
+- **評価**: B+（良好）
+- **主な課題**: 受動態、be used to、glass/grass の発音
+
+---
+
+## 23.1 重要エラー：glass vs grass
+
+```
+❌ Bad: "window of grass"
+✅ Good: "window glass" / "glass windows"
+```
+
+| 単語 | 発音 | 意味 |
+|------|------|------|
+| glass | /ɡlæs/ | ガラス |
+| grass | /ɡrɑːs/ | 芝生 |
+
+---
+
+## 23.2 重要エラー：be used to
+
+```
+❌ Bad: "we used to living with earthquake"
+✅ Good: "we are used to living with earthquakes"
+```
+
+---
+
+## 23.3 地震対策を説明する
+
+| 日本語 | 英語 |
+|--------|------|
+| 机の下に隠れる | hide under the desk |
+| 窓から離れる | move away from windows |
+| ドアを開けておく | leave the door open |
+| 月に1回地震がある | earthquakes occur once a month |
+| 厳しい建築基準 | strict building standards |
+
+---
+
+## 23.4 練習問題
+
+### be used to を正しく使え
+1. Japanese people ___ (are used to / used to) living with earthquakes.
+
+<details>
+<summary>解答</summary>
+
+1. Japanese people **are used to** living with earthquakes.
+</details>
+
+---
+
+<a name="lesson24"></a>
+# Lesson 24: My Cozy Room & Favorite Spot【居心地の良い部屋】
+
+## レッスン概要
+- **トピック**: 自分の部屋、家具、お気に入りのスポット
+- **評価**: B（良好）
+- **主な課題**: spot vs sport の混同、cozy の理解
+
+---
+
+## 24.1 重要エラー：spot vs sport
+
+```
+❌ Bad: "favorite sport in my room" (場所と言いたい)
+✅ Good: "favorite spot in my room"
+```
+
+| 単語 | 発音 | 意味 |
+|------|------|------|
+| spot | /spɒt/ | 場所 |
+| sport | /spɔːrt/ | スポーツ |
+
+---
+
+## 24.2 部屋を描写する表現
+
+```
+My home feels cozy, even though my room is small.
+部屋は小さいけど、家は居心地が良いです。
+
+My favorite piece of furniture is the sofa bed.
+お気に入りの家具はソファーベッドです。
+
+I designed my room to support rest and sleep.
+休息と睡眠のために部屋をデザインしました。
+```
+
+---
+
+<a name="lesson25"></a>
+# Lesson 25: Travel Memories & Elderly Care【思い出と高齢者介護】
+
+## レッスン概要
+- **トピック**: 思い出に残る旅行、高齢者介護、家族との時間
+- **評価**: B（良好）
+- **主な課題**: grandson の発音、前置詞
+
+---
+
+## 25.1 重要エラー：song vs grandson
+
+```
+❌ Bad: "He enjoyed playing golf with song"
+✅ Good: "He enjoyed playing golf with his grandson"
+```
+
+---
+
+## 25.2 高齢者介護の表現
+
+| 日本語 | 英語 |
+|--------|------|
+| 忍耐強くいる | be patient |
+| 敬意を払う | respect them |
+| 老人ホーム | nursing home |
+| 普通にコミュニケーション | communicate normally |
+
+```
+We need to be patient when elderly people ask the same question.
+高齢者が同じ質問をしても忍耐強くいる必要があります。
+```
+
+---
+
+<a name="lesson26"></a>
+# Lesson 26: Local Food & Weekend Activities【郷土料理と週末】
+
+## レッスン概要
+- **トピック**: お雑煮、コロンビア料理、スノーボード
+- **評価**: B+（良好）
+- **主な課題**: 単数・複数形、現在完了進行形
+
+---
+
+## 26.1 重要エラー：単数・複数形
+
+```
+❌ Bad: "I have been to other country"
+✅ Good: "I have been to other countries"
+
+❌ Bad: "each area, each there are a lot of kind of ozoni"
+✅ Good: "each area has its own kind of ozoni"
+```
+
+---
+
+## 26.2 郷土料理を説明する
+
+```
+Ozoni is a traditional New Year soup in Japan.
+お雑煮は日本の伝統的な正月の汁物です。
+
+Each area has its own kind of ozoni.
+各地域には独自のお雑煮があります。
+
+It contains mochi and local vegetables.
+餅と地元の野菜が入っています。
+```
+
+---
+
+## 26.3 現在完了進行形
+
+```
+❌ Bad: "recently, I don't read manga"
+✅ Good: "recently, I haven't been reading manga"
+```
+
+---
+
+<a name="lesson27"></a>
+# Lesson 27: Mountain Climbing Discussion【登山】
+
+## レッスン概要
+- **トピック**: 富士山登山、安全対策、登山の魅力
+- **評価**: B+（良好）
+- **主な課題**: intriguing の理解、climb vs crime
+
+---
+
+## 27.1 重要語彙：intriguing
+
+```
+intriguing = interesting, fascinating（興味をそそる）
+
+The most intriguing thing about mountain climbing is viewing the sunrise.
+登山で一番魅力的なのは日の出を見ることです。
+```
+
+---
+
+## 27.2 重要エラー：climb vs crime
+
+| 単語 | 発音 | 意味 |
+|------|------|------|
+| climb | /klaɪm/ | 登る |
+| crime | /kraɪm/ | 犯罪 |
+
+---
+
+## 27.3 登山の表現
+
+| 日本語 | 英語 |
+|--------|------|
+| 体力 | physical strength |
+| 暖かい服を着る | wear warm clothes |
+| 低酸素エリア | low oxygen area |
+| 中級者になる | become an intermediate climber |
+
+```
+Physical strength is important for climbing.
+登山には体力が重要です。
+
+Climbing in winter is very dangerous.
+冬の登山はとても危険です。
+```
 
 ---
 
